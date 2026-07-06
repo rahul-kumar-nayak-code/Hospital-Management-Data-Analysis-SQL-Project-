@@ -1,6 +1,10 @@
 # Hospital-Management-Data-Analysis-SQL-Project-
 📌 Project Overview
 
+My project is Hospital Management Data Analysis using SQL.The main goal of this project was to analyze hospital data and find useful insights that can help hospital management make better decisions.I worked with five tables: Patients, Doctors, Appointments, Billing, and Treatments.First, I checked the data for any problems, such as billing records with zero amounts and appointments with missing patient IDs. This helped ensure the data was accurate before analysis.
+
+challenge : one of the biggest challenge was checking the data quality. Some records had missing values or invalid data, so I identified those records before starting the analysis. This helped me get accurate results.
+
 This project focuses on analyzing a hospital management dataset to uncover key insights related to patients, doctors, appointments, treatments, and billing.
 
 The goal is to perform end-to-end SQL analysis and generate actionable insights that can help improve hospital operations, revenue, and decision-making.
